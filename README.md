@@ -102,7 +102,7 @@ Enviar a GitHub:
 >git push
 
 o para clonarlo:
->git clone https://github.com/chiura2003/An-lisis-hist-rico-de-LaLiga-1995-2025-.git
+>git clone https://github.com/chiura2003/Analisis-historico-de-LaLiga-1995-2025.git
 
 
 ## Instalación mediante setup.py
