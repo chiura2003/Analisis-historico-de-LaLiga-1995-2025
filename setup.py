@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-name="Análisis histórico de LaLiga (1995-2025)",
+name="Analisis_historico_de_LaLiga_19952025",
 version="1.0",
 author="ChiurazziLorenzo",
 packages=find_packages(),

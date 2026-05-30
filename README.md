@@ -100,3 +100,14 @@ Crea un commit:
 
 Enviar a GitHub:
 >git push
+
+
+## Instalación mediante setup.py
+
+El proyecto incluye un fichero `setup.py` que permite instalar automáticamente las librerías necesarias.
+
+Para realizar la instalación desde la carpeta raíz del proyecto:
+>pip install .
+
+o
+>python -m pip install .
